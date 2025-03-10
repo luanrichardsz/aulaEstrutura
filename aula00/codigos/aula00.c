@@ -47,7 +47,7 @@ main(int argc, char** argv)
 	printf("Qual o seu nome? ");
 	fgets(name, 12, stdin);
 	fflush(stdin);
-	printf("Muito prazer %s!\n", name);
+	printf("Muito prazer %s!", name);
 	getchar();
 	return 0;
 }
