@@ -51,7 +51,7 @@ A estrutura do while tem a seguinte sintaxe:
 do
 {
     [Lista de instruções;]
-    [break;]
+    [break;]    
 }
 while (condição)
 ```
