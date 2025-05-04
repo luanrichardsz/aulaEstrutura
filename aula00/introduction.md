@@ -1,7 +1,7 @@
 # Estrutura de Dados em C
 
 ## Linguagem C
-A linguagem C é uma linguagem compilada de propósito geral, estruturada, imperativa e procedural, padronizada pela ISO. Criada em 1972 por Dennis Ritchie, no AT&T Bell Labs, tinha o propósito de ser utilizada no sistema operacional Unix, que foi originalmente escrito em Assembly.
+  Criada em 1972 por Dennis Ritchie, no AT&T Bell Labs, tinha o propósito de ser utilizada no sistema operacional Unix, que foi originalmente escrito em Assembly.
 
 O nome "C" foi escolhido porque suas características foram obtidas a partir de uma linguagem chamada "B", que, por sua vez, era uma versão reduzida de "BCPL".
 

@@ -3,7 +3,7 @@
 ## Operador de Atribuição
 Como na maioria das linguagens, o sinal de igualdade é utilizado para representar a atribuição.
 
-```java
+```c
 #include <stdio.h>
 int main() {
  int x,y,z;
