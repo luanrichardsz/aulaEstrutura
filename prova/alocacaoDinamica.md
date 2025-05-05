@@ -1,4 +1,4 @@
-~~# Alocação Dinâmica 
+# Alocação Dinâmica 
 
 ## De Listas
 O espaço de memória é alocado em tempo de execução. Aumenta ou diminui seu
