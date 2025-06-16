@@ -48,3 +48,5 @@ Existem diversas técnicas para lidar com colisões, como:
 
 
 Essas técnicas garantem que todos os dados possam ser armazenados e recuperados, mesmo quando chaves diferentes inicialmente mapeiam para a mesma localização.
+
+## [Exemplo em Código](https://pastebin.com/qvdMGkfg)
