@@ -15,11 +15,11 @@ comporta as operações de criação, inserção (no fim da lista), remoção (n
 lista), acesso e destruição.
 
 ## Tipos de Alocação de Memória
-- Estatica
+- [Estatica](alocacao/alocacaoEstatica.md)
   - O espaço de memória é alocado no momento da compilação.
     Exige a definição prévia do número máximo de elementos da
     lista. A variável vetor é um bom exemplo .
-- Dinâmica
+- [Dinâmica](alocacao/alocacaoDinamica.md)
   - O espaço de memória é alocado em tempo de execução.
     Aumenta ou diminui seu tamanho a medida que são adicionados
     novos elementos e diminui quando são removidos.
